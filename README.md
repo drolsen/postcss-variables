@@ -1,4 +1,4 @@
-# PostCSS :Export
+# PostCSS Variables
 
 [POSTCSS](https://www.npmjs.com/package/postcss) plugin to extend variables usage within your CSS files.
 This is useful when you need to share CSS variables with JS without a middle man JSON file.
